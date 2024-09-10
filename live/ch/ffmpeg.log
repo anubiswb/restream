@@ -1679,3 +1679,69 @@ frame=24479 fps= 25 q=-1.0 size=N/A time=00:16:19.40 bitrate=N/A speed=1.01x    
 [hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
 [hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist410.ts' for writing
 [hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b346000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc0a84b80] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b346000_slAR_21847.ts' for reading
+frame=24719 fps= 25 q=-1.0 size=N/A time=00:16:28.94 bitrate=N/A speed=1.01x    [https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b1296000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc1cec600] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b1296000_slAR_21847.ts' for reading
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist411.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist412.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist413.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist414.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b1296000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc1cec600] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b1296000_slAR_21848.ts' for reading
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist415.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+frame=24961 fps= 25 q=-1.0 size=N/A time=00:16:38.92 bitrate=N/A speed=1.01x    [hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist416.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b346000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc0a84b80] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b346000_slAR_21848.ts' for reading
+frame=25029 fps= 25 q=-1.0 size=N/A time=00:16:41.16 bitrate=N/A speed=1.01x    [hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist417.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist418.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist419.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b346000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc0a84b80] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b346000_slAR_21849.ts' for reading
+frame=25259 fps= 25 q=-1.0 size=N/A time=00:16:50.82 bitrate=N/A speed=1.01x    [https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b1296000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc1cec600] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b1296000_slAR_21849.ts' for reading
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist420.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist421.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist422.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist423.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b346000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc0a84b80] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b346000_slAR_21850.ts' for reading
+frame=25499 fps= 25 q=-1.0 size=N/A time=00:17:00.17 bitrate=N/A speed=1.01x    [https @ 0x559dc09e7c40] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w2014821363_b1296000_slAR.m3u8' for reading
+[hls @ 0x559dc0767700] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x559dc0767700] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x559dc1cec600] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w2014821363_b1296000_slAR_21850.ts' for reading
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist424.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist425.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist426.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist427.ts' for writing
+[hls @ 0x559dc202fc00] Opening '/var/www/html/live/ch/playlist.m3u8.tmp' for writing
