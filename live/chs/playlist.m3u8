@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:22
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:19.200000,
-playlist1.ts
+#EXT-X-MEDIA-SEQUENCE:2
 #EXTINF:19.200000,
 playlist2.ts
 #EXTINF:21.600000,
@@ -12,3 +10,5 @@ playlist3.ts
 playlist4.ts
 #EXTINF:19.200000,
 playlist5.ts
+#EXTINF:21.600000,
+playlist6.ts
