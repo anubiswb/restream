@@ -2384,4 +2384,37 @@ frame=61199 fps= 25 q=-1.0 size=N/A time=00:40:48.74 bitrate=N/A speed=1.01x    
 [hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
 [hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
 [https @ 0x55aa02888900] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b346000_slAR_26302.ts' for reading
-frame=61499 fps= 25 q=-1.0 size=N/A time=00:41:00.78 bitrate=N/A speed=1.01x    
+frame=61499 fps= 25 q=-1.0 size=N/A time=00:41:00.78 bitrate=N/A speed=1.01x    [https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b1296000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa01dcb480] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b1296000_slAR_26302.ts' for reading
+[hls @ 0x55aa02851c00] Opening '/var/www/html/live/chs/playlist122.ts' for writing
+[hls muxer @ 0x55aa02760880] failed to delete old segment /var/www/html/live/chs/playlist116.ts: No such file or directory
+[hls @ 0x55aa02851c00] Opening '/var/www/html/live/chs/playlist.m3u8.tmp' for writing
+[https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b346000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa02888900] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b346000_slAR_26303.ts' for reading
+frame=61739 fps= 25 q=-1.0 size=N/A time=00:41:10.44 bitrate=N/A speed=1.01x    [https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b1296000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa01dcb480] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b1296000_slAR_26303.ts' for reading
+[https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b346000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa02888900] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b346000_slAR_26304.ts' for reading
+frame=61979 fps= 25 q=-1.0 size=N/A time=00:41:19.72 bitrate=N/A speed=1.01x    [https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b1296000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa01dcb480] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b1296000_slAR_26304.ts' for reading
+[hls @ 0x55aa02851c00] Opening '/var/www/html/live/chs/playlist123.ts' for writing
+[hls muxer @ 0x55aa02760880] failed to delete old segment /var/www/html/live/chs/playlist117.ts: No such file or directory
+[hls @ 0x55aa02851c00] Opening '/var/www/html/live/chs/playlist.m3u8.tmp' for writing
+[https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b346000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa02888900] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b346000_slAR_26305.ts' for reading
+frame=62219 fps= 25 q=-1.0 size=N/A time=00:41:29.45 bitrate=N/A speed=1.01x    [https @ 0x55aa00d99dc0] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w898289073_b1296000_slAR.m3u8' for reading
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-VERSION:3')
+[hls @ 0x55aa00b19780] Skip ('#EXT-X-DISCONTINUITY-SEQUENCE:0')
+[https @ 0x55aa01dcb480] Opening 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/media_w898289073_b1296000_slAR_26305.ts' for reading
