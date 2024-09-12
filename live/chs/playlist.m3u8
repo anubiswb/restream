@@ -5,3 +5,5 @@
 #EXT-X-DISCONTINUITY
 #EXTINF:31.200000,
 playlist0.ts
+#EXTINF:28.800000,
+playlist1.ts
